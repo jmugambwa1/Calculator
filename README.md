@@ -20,7 +20,7 @@ This is a simple calculator application built using Python and Kivy framework. I
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/calculator-app.git
+    git clone https://github.com/jmugambwa/Calculator.git
     ```
 
 2. Navigate to the project directory:
