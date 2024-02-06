@@ -1,4 +1,4 @@
-### Calculator App
+# Calculator App
 
 This is a simple calculator application built using Python and Kivy framework. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
